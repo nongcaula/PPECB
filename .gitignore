@@ -50,3 +50,4 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/.vs/PPECB Technical Assessment/v15/Server/sqlite3
